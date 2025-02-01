@@ -30,7 +30,7 @@ This project is a collaboration between:
 - **University of Regina - ENSE 271 Winter 2025**: Students working on innovative web designs for non-profits.
 
 
-## Project Contributors: 
--**Maheen Siddique(200480228)** 
--**Marc Aphlaon(200516165)** 
--**Adai Yisah(200365751)** 
+Project Contributors:
+Maheen Siddique (200480228)
+Marc Aphlaon (200516165)
+Adai Yisah (200365751)
