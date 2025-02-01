@@ -31,6 +31,8 @@ This project is a collaboration between:
 
 
 Project Contributors:
-Maheen Siddique (200480228)
-Marc Aphaon (200516165)
-Adai Yisah (200365751)
+Maheen Siddique (200480228),
+
+Marc Aphaon (200516165), 
+
+Adai Yisah (200365751), 
