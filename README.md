@@ -1,39 +1,39 @@
-# Charity Resource Hub
+# 🍃 Charity Resource Hub
 
-## Overview
+## 📝 Overview  
+The **Charity Resource Hub** is a centralized platform designed to support registered charities and non-profit organizations (NPOs) in Saskatchewan. Created in collaboration with the **South Saskatchewan Community Foundation (SSCF)**, it provides tools and resources to enhance operations and amplify community impact.
 
-The Charity Resource Hub is a centralized platform created to support registered charities and non-profit organizations (NPOs) in Saskatchewan. The project, developed under the supervision of the South Saskatchewan Community Foundation (SSCF), aims to provide charities with essential resources, tools, and learning opportunities to enhance their day-to-day operations and long-term impact.
+----
 
-## Objectives
+## 🔧 Technology Stack  
+| **Tool**          | **Purpose**                         |  
+|--------------------|-------------------------------------|  
+| Figma             |  UI Design                           |  
+| StoriesOnBoard    | Collaboration and User Story Maps   |  
+| WordPress         | Website Development                 |  
+| Local by Flywheel | Local WordPress Development         |  
+| GitHub            | Version Control and Code Hosting    |  
 
-1. Create a centralized, user-friendly hub for Saskatchewan charities to access relevant resources.
-2. Ensure open access to important resources, in addition to expelling paywalls and subscriptions.  
-3. Provide tools and opportunities for growth, collaboration, and widely beneficial community impact.
+----
 
-## Technology Stack
+## 🎯 Objectives  
+1. Build a user-friendly hub for Saskatchewan charities to access localized resources.  
+2. Provide accessible and credible information to save time and effort for charities.  
+3. Support strategic growth, collaboration, and sustainable community impact.  
 
-- **Design Tools:** Figma, StoriesOnBoard
-- **Web Development:** WordPress
-- **Version Control:** GitHub (Public Repository)
+----
 
-## Design Principles
+## 🙌 Acknowledgments  
+This project is made possible through a collaboration between:  
+- 🌟 **South Saskatchewan Community Foundation (SSCF)**  
+- 🎓 **University of Regina - ENSE 271 Winter 2025**  
 
-- **User-Centered Design:** Follow Design Thinking and Agile methodologies to iteratively improve the platform based on feedback.
-- **Sustainability:** Ensure resources and information are locally relevant and remain useful for years to come.
-- **Accessibility:** Provide an intuitive and easy-to-navigate interface.
+----
 
-
-## Acknowledgments
-
-This project is a collaboration between:
-- **South Saskatchewan Community Foundation (SSCF)**: Supporting charities in Saskatchewan.
-- **University of Regina - ENSE 271 (Winter 2025)**
+## 🤝 Contributors  
+- **Maheen Siddique** (200480228)  
+- **Marc Aphlaon** (200516165)  
+- **Adai Yisah** (200365751)  
 
 
-## Project Contributors:
 
-Maheen Siddique (200480228),
-
-Marc Aphaon (200516165), 
-
-Adai Yisah (200365751), 
