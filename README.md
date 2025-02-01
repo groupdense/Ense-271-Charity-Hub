@@ -8,12 +8,12 @@ The Charity Resource Hub is a centralized platform created to support registered
 
 1. Create a centralized, user-friendly hub for Saskatchewan charities to access relevant resources.
 2. Ensure open access to important resources, in addition to expelling paywalls and subscriptions.  
-3. Provide tools and opportunities for strategic growth, collaboration, and sustainable community impact.
+3. Provide tools and opportunities for growth, collaboration, and widely beneficial community impact.
 
 ## Technology Stack
 
 - **Design Tools:** Figma, StoriesOnBoard
-- **Web Development:** WordPress, Local by Flywheel
+- **Web Development:** WordPress
 - **Version Control:** GitHub (Public Repository)
 
 ## Design Principles
@@ -27,10 +27,10 @@ The Charity Resource Hub is a centralized platform created to support registered
 
 This project is a collaboration between:
 - **South Saskatchewan Community Foundation (SSCF)**: Supporting charities in Saskatchewan.
-- **University of Regina - ENSE 271 Winter 2025**: Students working on innovative web designs for non-profits.
+- **University of Regina - ENSE 271 (Winter 2025)**
 
 
 Project Contributors:
 Maheen Siddique (200480228)
-Marc Aphlaon (200516165)
+Marc Aphaon (200516165)
 Adai Yisah (200365751)
