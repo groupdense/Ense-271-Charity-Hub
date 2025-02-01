@@ -30,7 +30,7 @@ This project is a collaboration between:
 - **University of Regina - ENSE 271 (Winter 2025)**
 
 
-##Project Contributors:
+## Project Contributors:
 
 Maheen Siddique (200480228),
 
