@@ -1,10 +1,15 @@
-## 🖥️ Access the Figma Prototype  
 
-To explore the full **high-fidelity prototype**, click the link below:  
+## 🖥️ Access the Figma Prototypes  
 
-🔗 **[View the Figma File](https://www.figma.com/design/ocWq9SZcN2mZxgQBC8TwbE/High-Fi-Proto-Group-D?node-id=0-1&t=SqdvhAPFn6yweNGm-1)**  
+To explore the **high-fidelity desktop prototype**, click the link below:  
 
-This will take you directly to the interactive design, where you can navigate through various pages, explore animations, and experience the user flow as intended.  
+🔗 **[View the Desktop Figma Prototype](https://www.figma.com/design/ocWq9SZcN2mZxgQBC8TwbE/High-Fi-Proto-Group-D?node-id=0-1&t=SqdvhAPFn6yweNGm-1)**  
+
+For the **iPhone version of the prototype**, use this link:  
+
+📱 **[View the iPhone Prototype](https://www.figma.com/design/MLUpWKjgNEeiaiazUOH2zd/Untitled?node-id=0-1&t=zDGCQODDdkIOBfq5-1)**  
+
+Both versions are fully interactive, allowing you to navigate through different sections and experience the intended user flow.  
 
 ## 📌 What’s Inside?  
 
@@ -15,7 +20,7 @@ This will take you directly to the interactive design, where you can navigate th
 
 ## 💡 How to Use the Prototype  
 
-1. Click on the **Figma link** above.  
+1. Click on the **Figma link(s)** above.  
 2. Use the navigation elements within the prototype to explore different sections.  
 3. Enable “Prototype” mode in Figma for the best experience.  
 4. If you have feedback or suggestions, feel free to share!  
@@ -23,7 +28,4 @@ This will take you directly to the interactive design, where you can navigate th
 ---
 
 ### 🚀 Thank You!  
-
-We appreciate your interest in this project. If you have any questions, suggestions, or encounter any issues accessing the file, please let us know.  
-
 Happy exploring! 🎨✨  
